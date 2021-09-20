@@ -1,0 +1,12 @@
+https://www.youtube.com/playlist?list=PLfO6SFqcY2PrDR5yct96n4qfgMmh6g0eP
+ldapsearch -D cn=admin,cn=config -w secrete -b cn=schema,cn=config objectclass=* dn 
+you edit ppolicy.schema
+slaptest generates ldif file 
+slaptest -f origin/file -F to/generate/file
+
+JXexplorer
+
+https://www.youtube.com/watch?v=0FwOcZNjjQA
+Apache directory studio
+
+
